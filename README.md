@@ -38,4 +38,4 @@ This Readme file will give you the idea about how to upload your project from yo
 
 ### I hope you enjoyed reading this _README_ for better understanding. If you liked it, give this repo a _star_
 
-# THANKYOU 
+# THANKYOU :)
