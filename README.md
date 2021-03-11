@@ -8,4 +8,4 @@ Following are the steps to get started:
 
 * **Open Git Bash**: Open Git Bash in your project directory or change the current directory to the project directory.
 
-* **Initialize the project directory as the Git repo**: [git init]
+* **Initialize the project directory as the Git repo**: (git init)
