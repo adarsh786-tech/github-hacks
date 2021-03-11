@@ -4,4 +4,5 @@ This Readme file will give you the idea about how to upload your project from yo
 
 Following are the steps to get started:
 
-* **Create a new repository**:
+1. **Create a new repository**: You can create it from homepage or by clicking on the **+** icon near the bell icon
+
